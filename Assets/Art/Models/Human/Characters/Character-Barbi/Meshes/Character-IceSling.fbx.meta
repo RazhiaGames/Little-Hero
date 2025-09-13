@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: a7fc498f3f9de66458ce3040304c9f29
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: c21bba04e47ce3b40b49c05f89c78877, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClothesRoller
+    second: {fileID: 2100000, guid: c13212741730c874aa180451b43d55a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClothesSkate
+    second: {fileID: 2100000, guid: 9452fe569ea29fb47a17cecc281a14c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClothsRegular
+    second: {fileID: 2100000, guid: a7cb94265cf107f4fa679524d47269d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face
+    second: {fileID: 2100000, guid: 1c7b92a4d50f0b240bf40efd1c760a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HairRegular
+    second: {fileID: 2100000, guid: 52c013520e84c7e47b7ab6cddf73819d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HairRoller
+    second: {fileID: 2100000, guid: e75137f26fdffa64ba5d4fcfd0d7bc65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HairSkate
+    second: {fileID: 2100000, guid: 091b89cf379d43f47ba0f9c2cda25694, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ice1
+    second: {fileID: 2100000, guid: dfd42f0febcf39546a36d8a27df87c6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ice2
+    second: {fileID: 2100000, guid: 8b4ada1d79ace514b971d9e252d2e969, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCotton
+    second: {fileID: 2100000, guid: e31b07f0a80bde54f9c117c5d1435678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-Body
+    second: {fileID: 2100000, guid: c21bba04e47ce3b40b49c05f89c78877, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-ClothesRoller
+    second: {fileID: 2100000, guid: c13212741730c874aa180451b43d55a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-ClothesSkate
+    second: {fileID: 2100000, guid: 9452fe569ea29fb47a17cecc281a14c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-ClothsRegular
+    second: {fileID: 2100000, guid: a7cb94265cf107f4fa679524d47269d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-Face
+    second: {fileID: 2100000, guid: 1c7b92a4d50f0b240bf40efd1c760a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-HairRegular
+    second: {fileID: 2100000, guid: 52c013520e84c7e47b7ab6cddf73819d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-HairRoller
+    second: {fileID: 2100000, guid: e75137f26fdffa64ba5d4fcfd0d7bc65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-HairSkate
+    second: {fileID: 2100000, guid: 091b89cf379d43f47ba0f9c2cda25694, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-Ice1
+    second: {fileID: 2100000, guid: dfd42f0febcf39546a36d8a27df87c6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-Ice2
+    second: {fileID: 2100000, guid: 8b4ada1d79ace514b971d9e252d2e969, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-IceCotton
+    second: {fileID: 2100000, guid: e31b07f0a80bde54f9c117c5d1435678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-Icesky
+    second: {fileID: 2100000, guid: fd51c4c7c51480e4d893191e0c713ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-RegularBlack
+    second: {fileID: 2100000, guid: 741e91d183f5b874f97e2a0b8acc1536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-RegularBlou
+    second: {fileID: 2100000, guid: 5b962e9995cca5c45a5b26c11989e9c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-RegularYellow
+    second: {fileID: 2100000, guid: 40a33a8a6c594f14f9dd3ff10d5511b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-Roller
+    second: {fileID: 2100000, guid: 126b1920b60bc944da6202ca3e4b6a17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-RollerK
+    second: {fileID: 2100000, guid: 8e96eff79443c4a4791ead28e3f592fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSkating-RollerT
+    second: {fileID: 2100000, guid: fec5c7090dbd11b46b4fdeeb9eed0b95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-Body
+    second: {fileID: 2100000, guid: 49d8c0dac376f4a5391073426a04336f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-Face
+    second: {fileID: 2100000, guid: 72f1e9cff5a9c4db88527e43a1b69584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-IceSling-Iceskate-Dress
+    second: {fileID: 2100000, guid: 6cb08088b52d647ee801424701e936c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-IceSling-Iceskate-Hair
+    second: {fileID: 2100000, guid: 9468dcfaa5c6b4e47b79e198478c2e44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-Iceskate 01
+    second: {fileID: 2100000, guid: e3640f529e7ce4076a3f69a91302c6cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-Iceskate 02
+    second: {fileID: 2100000, guid: ba86ea4a5e0b94648bd07972ae0b75ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-RegularSkates-Dress 01
+    second: {fileID: 2100000, guid: f7a6546d08baa4738bff63351d1febc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-RegularSkates-Dress 02
+    second: {fileID: 2100000, guid: ba6846d841fd548ff8d3069f31dab915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-RegularSkates-Hair
+    second: {fileID: 2100000, guid: 11561b7bcd52c40febf6bfcd9ef9c8b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-RegularSkates-Skate 01
+    second: {fileID: 2100000, guid: 029c9c08a6d3943b2967261e3769925e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-RegularSkates-Skate 02
+    second: {fileID: 2100000, guid: d71caf139a4f24ffe8dafb8dd28ac0a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-RollerBlades 01
+    second: {fileID: 2100000, guid: 7f2cf390bb6e84459a54d2d184c50585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-RollerBlades 02
+    second: {fileID: 2100000, guid: 6280657d774874a3685a6680698a2b2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-RollerBlades-Dress
+    second: {fileID: 2100000, guid: 785c4b2986e5145ceaf0ab4a2049cb63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceSling-RollerBlades-Hair
+    second: {fileID: 2100000, guid: 32cac0caf7e41434db6a9a5006dfca3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Icesky
+    second: {fileID: 2100000, guid: fd51c4c7c51480e4d893191e0c713ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RegularBlack
+    second: {fileID: 2100000, guid: 741e91d183f5b874f97e2a0b8acc1536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RegularBlou
+    second: {fileID: 2100000, guid: 5b962e9995cca5c45a5b26c11989e9c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RegularYellow
+    second: {fileID: 2100000, guid: 40a33a8a6c594f14f9dd3ff10d5511b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roller
+    second: {fileID: 2100000, guid: 126b1920b60bc944da6202ca3e4b6a17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RollerK
+    second: {fileID: 2100000, guid: 8e96eff79443c4a4791ead28e3f592fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RollerT
+    second: {fileID: 2100000, guid: fec5c7090dbd11b46b4fdeeb9eed0b95, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
