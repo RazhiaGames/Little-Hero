@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e704f6107cca47eca0d8be60d69f95c3, type: 3}
+  m_Name: FindPathConfig
+  m_EditorClassIdentifier: 
+  gameName: "\u0645\u0633\u06CC\u0631\u06CC\u0627\u0628\u06CC"
+  configurations:
+  - location: 0
+    difficulty: 0
+    butterflyPrefab: {fileID: 3395832898699423662, guid: cc06291b8e6cb1a43ad5526a103ffbc6,
+      type: 3}
+    howToPlayText: "\u0647\u0631 \u067E\u0631\u0648\u0627\u0646\u0647 \u0628\u0627
+      \u06CC\u06A9 \u062E\u0637 \u0628\u0647 \u06CC\u06A9 \u06AF\u0644 \u0648\u0635\u0644
+      \u0634\u062F\u0647. \u0631\u0648\u06CC \u067E\u0631\u0648\u0627\u0646\u0647
+      \u06A9\u0644\u06CC\u06A9 \u06A9\u0646 \u0648 \u0639\u062F\u062F \u06AF\u0644
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: aaa72478c0e711a4ba1720f4556a8da9, type: 3}
+    FindPathLevel: {fileID: 1455596405018482249, guid: 2ac43c1feea619243b86dc31d4800247,
+      type: 3}
+    bottomFlowers:
+    - {fileID: 21300000, guid: db428d7aa9d290e40be0e6311390bda0, type: 3}
+    - {fileID: 21300000, guid: 1af814a1549bb5946a0e5576382758b2, type: 3}
+    - {fileID: 21300000, guid: 130dd283d216d15498daa56f77824ec4, type: 3}
+    - {fileID: 21300000, guid: d9c855a062c441344bf5559ea44cf6b2, type: 3}
+    - {fileID: 21300000, guid: a1d063c1624d50d45b43305b9a175629, type: 3}
+  - location: 0
+    difficulty: 1
+    butterflyPrefab: {fileID: 3395832898699423662, guid: cc06291b8e6cb1a43ad5526a103ffbc6,
+      type: 3}
+    howToPlayText: "\u0647\u0631 \u067E\u0631\u0648\u0627\u0646\u0647 \u0628\u0627
+      \u06CC\u06A9 \u062E\u0637 \u0628\u0647 \u06CC\u06A9 \u06AF\u0644 \u0648\u0635\u0644
+      \u0634\u062F\u0647. \u0631\u0648\u06CC \u067E\u0631\u0648\u0627\u0646\u0647
+      \u06A9\u0644\u06CC\u06A9 \u06A9\u0646 \u0648 \u0639\u062F\u062F \u06AF\u0644
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: aaa72478c0e711a4ba1720f4556a8da9, type: 3}
+    FindPathLevel: {fileID: 1455596405018482249, guid: 68d4201a8e77dbe4d9901d5fee4dce7c,
+      type: 3}
+    bottomFlowers:
+    - {fileID: 21300000, guid: db428d7aa9d290e40be0e6311390bda0, type: 3}
+    - {fileID: 21300000, guid: 1af814a1549bb5946a0e5576382758b2, type: 3}
+    - {fileID: 21300000, guid: 130dd283d216d15498daa56f77824ec4, type: 3}
+    - {fileID: 21300000, guid: d9c855a062c441344bf5559ea44cf6b2, type: 3}
+    - {fileID: 21300000, guid: a1d063c1624d50d45b43305b9a175629, type: 3}
+  - location: 0
+    difficulty: 2
+    butterflyPrefab: {fileID: 3395832898699423662, guid: cc06291b8e6cb1a43ad5526a103ffbc6,
+      type: 3}
+    howToPlayText: "\u0647\u0631 \u067E\u0631\u0648\u0627\u0646\u0647 \u0628\u0627
+      \u06CC\u06A9 \u062E\u0637 \u0628\u0647 \u06CC\u06A9 \u06AF\u0644 \u0648\u0635\u0644
+      \u0634\u062F\u0647. \u0631\u0648\u06CC \u067E\u0631\u0648\u0627\u0646\u0647
+      \u06A9\u0644\u06CC\u06A9 \u06A9\u0646 \u0648 \u0639\u062F\u062F \u06AF\u0644
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: aaa72478c0e711a4ba1720f4556a8da9, type: 3}
+    FindPathLevel: {fileID: 1455596405018482249, guid: 11487df804e024d40b59c95019d34b19,
+      type: 3}
+    bottomFlowers:
+    - {fileID: 21300000, guid: db428d7aa9d290e40be0e6311390bda0, type: 3}
+    - {fileID: 21300000, guid: 1af814a1549bb5946a0e5576382758b2, type: 3}
+    - {fileID: 21300000, guid: 130dd283d216d15498daa56f77824ec4, type: 3}
+    - {fileID: 21300000, guid: d9c855a062c441344bf5559ea44cf6b2, type: 3}
+    - {fileID: 21300000, guid: a1d063c1624d50d45b43305b9a175629, type: 3}
+  - location: 1
+    difficulty: 0
+    butterflyPrefab: {fileID: 546467058745203043, guid: da86ee21d2270a2498214308bf15008e,
+      type: 3}
+    howToPlayText: "\u0647\u0631 \u0686\u0633\u0628 \u0628\u0627 \u06CC\u06A9 \u062E\u0637
+      \u0628\u0647 \u06CC\u06A9 \u0622\u06CC\u062A\u0645 \u0648\u0635\u0644 \u0634\u062F\u0647.
+      \u0631\u0648\u06CC \u0686\u0633\u0628 \u06A9\u0644\u06CC\u06A9 \u06A9\u0646
+      \u0648 \u0639\u062F\u062F \u0622\u06CC\u062A\u0645 \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 680998bd597cd3d48bee0e972426b1fa, type: 3}
+    FindPathLevel: {fileID: 1455596405018482249, guid: e798c5cf024045f48a6c81960fd3c4b7,
+      type: 3}
+    bottomFlowers:
+    - {fileID: 21300000, guid: cc616755cbbe3ef47a48100a2e6c493c, type: 3}
+    - {fileID: 21300000, guid: ab462be75e0434a4d9b441c9fa77e246, type: 3}
+    - {fileID: 21300000, guid: d71bfad1c0e17754985b9e6086ba69cf, type: 3}
+    - {fileID: 21300000, guid: 5841d001a2f49e94188792eb0863f012, type: 3}
+    - {fileID: 21300000, guid: f6bf14d553cea264fa8dd775b6dec3b5, type: 3}
+  - location: 1
+    difficulty: 1
+    butterflyPrefab: {fileID: 546467058745203043, guid: da86ee21d2270a2498214308bf15008e,
+      type: 3}
+    howToPlayText: "\u0647\u0631 \u0686\u0633\u0628 \u0628\u0627 \u06CC\u06A9 \u062E\u0637
+      \u0628\u0647 \u06CC\u06A9 \u0622\u06CC\u062A\u0645 \u0648\u0635\u0644 \u0634\u062F\u0647.
+      \u0631\u0648\u06CC \u0686\u0633\u0628 \u06A9\u0644\u06CC\u06A9 \u06A9\u0646
+      \u0648 \u0639\u062F\u062F \u0622\u06CC\u062A\u0645 \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 680998bd597cd3d48bee0e972426b1fa, type: 3}
+    FindPathLevel: {fileID: 1455596405018482249, guid: bffd9cf5f31a15643bd6860638d384c9,
+      type: 3}
+    bottomFlowers:
+    - {fileID: 21300000, guid: cc616755cbbe3ef47a48100a2e6c493c, type: 3}
+    - {fileID: 21300000, guid: ab462be75e0434a4d9b441c9fa77e246, type: 3}
+    - {fileID: 21300000, guid: d71bfad1c0e17754985b9e6086ba69cf, type: 3}
+    - {fileID: 21300000, guid: 5841d001a2f49e94188792eb0863f012, type: 3}
+    - {fileID: 21300000, guid: f6bf14d553cea264fa8dd775b6dec3b5, type: 3}
+  - location: 1
+    difficulty: 2
+    butterflyPrefab: {fileID: 546467058745203043, guid: da86ee21d2270a2498214308bf15008e,
+      type: 3}
+    howToPlayText: "\u0647\u0631 \u0686\u0633\u0628 \u0628\u0627 \u06CC\u06A9 \u062E\u0637
+      \u0628\u0647 \u06CC\u06A9 \u0622\u06CC\u062A\u0645 \u0648\u0635\u0644 \u0634\u062F\u0647.
+      \u0631\u0648\u06CC \u0686\u0633\u0628 \u06A9\u0644\u06CC\u06A9 \u06A9\u0646
+      \u0648 \u0639\u062F\u062F \u0622\u06CC\u062A\u0645 \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 680998bd597cd3d48bee0e972426b1fa, type: 3}
+    FindPathLevel: {fileID: 1455596405018482249, guid: 351778195d423b2428e270261cec3efd,
+      type: 3}
+    bottomFlowers:
+    - {fileID: 21300000, guid: cc616755cbbe3ef47a48100a2e6c493c, type: 3}
+    - {fileID: 21300000, guid: ab462be75e0434a4d9b441c9fa77e246, type: 3}
+    - {fileID: 21300000, guid: d71bfad1c0e17754985b9e6086ba69cf, type: 3}
+    - {fileID: 21300000, guid: 5841d001a2f49e94188792eb0863f012, type: 3}
+    - {fileID: 21300000, guid: f6bf14d553cea264fa8dd775b6dec3b5, type: 3}
+  - location: 2
+    difficulty: 0
+    butterflyPrefab: {fileID: 546467058745203043, guid: a4a7887c35d48df4ab5869c78a5540fa,
+      type: 3}
+    howToPlayText: "\u0647\u0631 \u0628\u0644\u06CC\u0637 \u0628\u0627 \u06CC\u06A9
+      \u062E\u0637 \u0628\u0647 \u06CC\u06A9 \u0645\u06A9\u0627\u0646 \u062A\u0641\u0631\u06CC\u062D\u06CC
+      \u0648\u0635\u0644 \u0634\u062F\u0647. \u0631\u0648\u06CC \u0628\u0644\u06CC\u0637
+      \u06A9\u0644\u06CC\u06A9 \u06A9\u0646 \u0648 \u0639\u062F\u062F\u0634 \u0631\u0648
+      \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 44a09e644a98ecd48bde9e701e2180de, type: 3}
+    FindPathLevel: {fileID: 1455596405018482249, guid: f7619da649c97254fbb068c29fa5b6e9,
+      type: 3}
+    bottomFlowers:
+    - {fileID: 21300000, guid: 27199eb16e82ceb469c16b8639c7fc43, type: 3}
+    - {fileID: 21300000, guid: fdd48da29bf38134c89d391ee2cab560, type: 3}
+    - {fileID: 21300000, guid: bfd38a11c7239b247a475c418c00b0e0, type: 3}
+    - {fileID: 21300000, guid: 50aa9320104079244a4fd2b94969db78, type: 3}
+    - {fileID: 21300000, guid: 24c0a7491718c7443801bd8fded0e281, type: 3}
+  - location: 2
+    difficulty: 1
+    butterflyPrefab: {fileID: 546467058745203043, guid: a4a7887c35d48df4ab5869c78a5540fa,
+      type: 3}
+    howToPlayText: "\u0647\u0631 \u0628\u0644\u06CC\u0637 \u0628\u0627 \u06CC\u06A9
+      \u062E\u0637 \u0628\u0647 \u06CC\u06A9 \u0645\u06A9\u0627\u0646 \u062A\u0641\u0631\u06CC\u062D\u06CC
+      \u0648\u0635\u0644 \u0634\u062F\u0647. \u0631\u0648\u06CC \u0628\u0644\u06CC\u0637
+      \u06A9\u0644\u06CC\u06A9 \u06A9\u0646 \u0648 \u0639\u062F\u062F\u0634 \u0631\u0648
+      \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 44a09e644a98ecd48bde9e701e2180de, type: 3}
+    FindPathLevel: {fileID: 1455596405018482249, guid: 0a57736def3c8014d87c2a881da57e9b,
+      type: 3}
+    bottomFlowers:
+    - {fileID: 21300000, guid: 27199eb16e82ceb469c16b8639c7fc43, type: 3}
+    - {fileID: 21300000, guid: fdd48da29bf38134c89d391ee2cab560, type: 3}
+    - {fileID: 21300000, guid: bfd38a11c7239b247a475c418c00b0e0, type: 3}
+    - {fileID: 21300000, guid: 50aa9320104079244a4fd2b94969db78, type: 3}
+    - {fileID: 21300000, guid: 24c0a7491718c7443801bd8fded0e281, type: 3}
+  - location: 2
+    difficulty: 2
+    butterflyPrefab: {fileID: 546467058745203043, guid: a4a7887c35d48df4ab5869c78a5540fa,
+      type: 3}
+    howToPlayText: "\u0647\u0631 \u0628\u0644\u06CC\u0637 \u0628\u0627 \u06CC\u06A9
+      \u062E\u0637 \u0628\u0647 \u06CC\u06A9 \u0645\u06A9\u0627\u0646 \u062A\u0641\u0631\u06CC\u062D\u06CC
+      \u0648\u0635\u0644 \u0634\u062F\u0647. \u0631\u0648\u06CC \u0628\u0644\u06CC\u0637
+      \u06A9\u0644\u06CC\u06A9 \u06A9\u0646 \u0648 \u0639\u062F\u062F\u0634 \u0631\u0648
+      \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 44a09e644a98ecd48bde9e701e2180de, type: 3}
+    FindPathLevel: {fileID: 1455596405018482249, guid: 5557f070017b37b45be238b5c02c9ed9,
+      type: 3}
+    bottomFlowers:
+    - {fileID: 21300000, guid: 27199eb16e82ceb469c16b8639c7fc43, type: 3}
+    - {fileID: 21300000, guid: fdd48da29bf38134c89d391ee2cab560, type: 3}
+    - {fileID: 21300000, guid: bfd38a11c7239b247a475c418c00b0e0, type: 3}
+    - {fileID: 21300000, guid: 50aa9320104079244a4fd2b94969db78, type: 3}
+    - {fileID: 21300000, guid: 24c0a7491718c7443801bd8fded0e281, type: 3}

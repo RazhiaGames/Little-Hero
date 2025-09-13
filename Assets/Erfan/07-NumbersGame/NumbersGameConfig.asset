@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec2bb2e1a6e94599bee28d0272a97b4e, type: 3}
+  m_Name: NumbersGameConfig
+  m_EditorClassIdentifier: 
+  gameName: "\u0628\u0627\u0632\u06CC \u0627\u0639\u062F\u0627\u062F"
+  configurations:
+  - location: 0
+    difficulty: 0
+    numbersGamePrefab: {fileID: 278652772093862865, guid: 1595f874e00b4384d8ccb47c07338750,
+      type: 3}
+    isRange: 0
+    rangeMin: 0
+    rangeMax: 0
+    howToPlayText: "\u0627\u0639\u062F\u0627\u062F \u0641\u0631\u062F \u0631\u0648
+      \u062F\u0627\u062E\u0644 \u062C\u0639\u0628\u0647 \u0628\u0646\u062F\u0627\u0632"
+    howToPlayAudio: {fileID: 8300000, guid: 876f6e953aa7b694694b6a229b7ab032, type: 3}
+    numToWin: 4
+    containerTypes:
+    - containerType: 1
+      containerText: "\u0641\u0631\u062F"
+  - location: 0
+    difficulty: 1
+    numbersGamePrefab: {fileID: 278652772093862865, guid: cc21f372dc2827d439e61a0ce474930f,
+      type: 3}
+    isRange: 0
+    rangeMin: 0
+    rangeMax: 0
+    howToPlayText: "\u0627\u0639\u062F\u0627\u062F \u0641\u0631\u062F \u0648 \u0632\u0648\u062C
+      \u0631\u0648 \u062F\u0627\u062E\u0644 \u062C\u0639\u0628\u0647 \u0628\u0646\u062F\u0627\u0632"
+    howToPlayAudio: {fileID: 8300000, guid: df75caa63f94e5045b9742cf47cd1674, type: 3}
+    numToWin: 3
+    containerTypes:
+    - containerType: 1
+      containerText: "\u0641\u0631\u062F"
+    - containerType: 0
+      containerText: "\u0632\u0648\u062C"
+  - location: 0
+    difficulty: 2
+    numbersGamePrefab: {fileID: 278652772093862865, guid: 10ed5ec961c06f9479a15c50c88d1a69,
+      type: 3}
+    isRange: 1
+    rangeMin: 10
+    rangeMax: 50
+    howToPlayText: "\u0627\u0639\u062F\u0627\u062F \u0641\u0631\u062F \u0648 \u0632\u0648\u062C\u06CC
+      \u06A9\u0647 \u0628\u06CC\u0646 10 \u062A\u062750 \u0647\u0633\u062A\u0646\u062F
+      \u0631\u0648 \u062F\u0627\u062E\u0644 \u062C\u0639\u0628\u0647 \u0628\u0646\u062F\u0627\u0632"
+    howToPlayAudio: {fileID: 8300000, guid: 3db30ee56d4a49b47beb707e620e37a6, type: 3}
+    numToWin: 3
+    containerTypes:
+    - containerType: 1
+      containerText: "\u0641\u0631\u062F"
+    - containerType: 0
+      containerText: "\u0632\u0648\u062C"
+  - location: 1
+    difficulty: 0
+    numbersGamePrefab: {fileID: 278652772093862865, guid: 68695802e42486a43874fcf111ae8754,
+      type: 3}
+    isRange: 0
+    rangeMin: 0
+    rangeMax: 0
+    howToPlayText: "\u0628\u0627 \u062A\u0648\u062C\u0647 \u0628\u0647 \u0627\u0646\u062F\u0627\u0632\u0647
+      \u06CC \u0622\u062F\u0645\u06A9 \u062A\u062E\u062A\u06CC \u06A9\u0647 \u0645\u0646\u0627\u0633\u0628
+      \u0627\u0646\u062F\u0627\u0632\u0634 \u0647\u0633\u062A \u0631\u0648 \u062A\u0648\u06CC
+      \u062C\u0639\u0628\u0647 \u0628\u0646\u062F\u0627\u0632"
+    howToPlayAudio: {fileID: 8300000, guid: 7d1dedcfef253ad4f9fce9a418b64d24, type: 3}
+    numToWin: 1
+    containerTypes:
+    - containerType: 5
+      containerText: "\u062A\u062E\u062A"
+  - location: 1
+    difficulty: 1
+    numbersGamePrefab: {fileID: 278652772093862865, guid: adaecd6fa51198c47bae327d88368370,
+      type: 3}
+    isRange: 0
+    rangeMin: 0
+    rangeMax: 0
+    howToPlayText: "\u0628\u0627 \u062A\u0648\u062C\u0647 \u0628\u0647 \u0627\u0646\u062F\u0627\u0632\u0647
+      \u06CC \u0622\u062F\u0645\u06A9 \u062A\u062E\u062A \u0647\u0627 \u0648 \u0644\u0628\u0627\u0633
+      \u0647\u0627\u06CC\u06CC \u06A9\u0647 \u0627\u0632 \u0627\u0646\u062F\u0627\u0632\u0647
+      \u0648\u0627\u0642\u0639\u06CC \u0628\u0632\u0631\u06AF\u062A\u0631\u0646\u062F
+      \u0631\u0648 \u062A\u0648\u06CC \u062C\u0639\u0628\u0647 \u0628\u0646\u062F\u0627\u0632"
+    howToPlayAudio: {fileID: 8300000, guid: b4a83fb323fba4548ac89b9936d204ab, type: 3}
+    numToWin: 3
+    containerTypes:
+    - containerType: 5
+      containerText: "\u062A\u062E\u062A"
+    - containerType: 6
+      containerText: "\u0644\u0628\u0627\u0633"
+  - location: 1
+    difficulty: 2
+    numbersGamePrefab: {fileID: 278652772093862865, guid: b9714e3b05f836e48a0d20ad2802af8c,
+      type: 3}
+    isRange: 0
+    rangeMin: 0
+    rangeMax: 0
+    howToPlayText: "\u0628\u0627 \u062A\u0648\u062C\u0647 \u0628\u0647 \u0627\u0646\u062F\u0627\u0632\u0647
+      \u06CC \u0622\u062F\u0645\u06A9 \u062A\u062E\u062A \u0647\u0627 \u0648 \u0644\u0628\u0627\u0633
+      \u0647\u0627\u06CC\u06CC \u06A9\u0647 \u0627\u0632 \u0627\u0646\u062F\u0627\u0632\u0647
+      \u062F\u0631\u0633\u062A \u062F\u0627\u0631\u0646\u062F \u0631\u0648 \u062A\u0648\u06CC
+      \u062C\u0639\u0628\u0647 \u0628\u0646\u062F\u0627\u0632"
+    howToPlayAudio: {fileID: 8300000, guid: 49df43ca51d1fc34d906dc03cdcffd1d, type: 3}
+    numToWin: 3
+    containerTypes:
+    - containerType: 5
+      containerText: "\u062A\u062E\u062A"
+    - containerType: 6
+      containerText: "\u0644\u0628\u0627\u0633"
+  - location: 2
+    difficulty: 0
+    numbersGamePrefab: {fileID: 278652772093862865, guid: 4d0cac417b1c2644b903cd9f1fbd7ad0,
+      type: 3}
+    isRange: 0
+    rangeMin: 0
+    rangeMax: 0
+    howToPlayText: "\u0647\u0631 \u062D\u06CC\u0648\u0627\u0646 \u0631\u0648 \u062F\u0631
+      \u0633\u0628\u062F \u062F\u0631\u0633\u062A \u0628\u0646\u062F\u0627\u0632"
+    howToPlayAudio: {fileID: 8300000, guid: d27e3c3f12bf15f4b8359e971c353818, type: 3}
+    numToWin: 1
+    containerTypes:
+    - containerType: 2
+      containerText: "\u067E\u0631\u0646\u062F\u0647"
+    - containerType: 4
+      containerText: "\u062D\u06CC\u0648\u0627\u0646\u0627\u062A \u0648\u062D\u0634\u06CC"
+  - location: 2
+    difficulty: 1
+    numbersGamePrefab: {fileID: 278652772093862865, guid: b62b49f4b3735e843af732b59e4fbb99,
+      type: 3}
+    isRange: 0
+    rangeMin: 0
+    rangeMax: 0
+    howToPlayText: "\u0647\u0631 \u062D\u06CC\u0648\u0627\u0646 \u0631\u0648 \u062F\u0631
+      \u0633\u0628\u062F \u062F\u0631\u0633\u062A \u0628\u0646\u062F\u0627\u0632"
+    howToPlayAudio: {fileID: 8300000, guid: d27e3c3f12bf15f4b8359e971c353818, type: 3}
+    numToWin: 3
+    containerTypes:
+    - containerType: 2
+      containerText: "\u067E\u0631\u0646\u062F\u0647"
+    - containerType: 3
+      containerText: "\u062D\u06CC\u0648\u0627\u0646\u0627\u062A \u0648\u062D\u0634\u06CC"
+  - location: 2
+    difficulty: 2
+    numbersGamePrefab: {fileID: 278652772093862865, guid: b3c2e0d176e875245ab10311783b3c1d,
+      type: 3}
+    isRange: 0
+    rangeMin: 0
+    rangeMax: 0
+    howToPlayText: "\u062D\u06CC\u0648\u0627\u0646\u0627\u062A \u0627\u0647\u0644\u06CC
+      \u0648 \u0648\u062D\u0634\u06CC \u06A9\u0647 \u062C\u062B\u0647 \u06A9\u0648\u0686\u06A9\u062A\u0631
+      \u0627\u0632 \u0627\u0646\u0633\u0627\u0646 \u062F\u0627\u0631\u0646\u062F
+      \u0631\u0648 \u062F\u0631 \u0633\u0628\u062F \u062F\u0631\u0633\u062A \u0628\u0646\u062F\u0627\u0632"
+    howToPlayAudio: {fileID: 8300000, guid: a415eef1491a5dd49908d0c7829918d7, type: 3}
+    numToWin: 3
+    containerTypes:
+    - containerType: 2
+      containerText: "\u067E\u0631\u0646\u062F\u0647"
+    - containerType: 3
+      containerText: "\u062D\u06CC\u0648\u0627\u0646\u0627\u062A \u0648\u062D\u0634\u06CC"
+    - containerType: 4
+      containerText: "\u062D\u06CC\u0648\u0627\u0646\u0627\u062A \u0627\u0647\u0644\u06CC"

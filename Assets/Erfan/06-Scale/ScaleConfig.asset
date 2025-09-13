@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93d8782e489e471fb68fe66a02e38278, type: 3}
+  m_Name: ScaleConfig
+  m_EditorClassIdentifier: 
+  gameName: "\u0627\u0646\u062F\u0627\u0632\u0647 \u06CC \u0648\u0627\u0642\u0639\u06CC"
+  configurations:
+  - location: 0
+    difficulty: 0
+    prefab: {fileID: 4186522237259313649, guid: cead4ca1952b56b468505389a886a449,
+      type: 3}
+    howToPlayText: "\u0634\u06A9\u0644 \u0628\u0627\u0644\u0627\u06CC \u0635\u0641\u062D\u0647
+      \u0627\u0646\u062F\u0627\u0632\u0647 \u06CC \u062F\u0631\u0633\u062A\u06CC
+      \u062F\u0627\u0631\u0647 \u0647\u0631 \u0686\u06CC\u0632\u06CC \u06A9\u0647
+      \u062F\u0631 \u0645\u0642\u0627\u06CC\u0633\u0647 \u0628\u0627 \u0627\u0648\u0646
+      \u0627\u0646\u062F\u0627\u0632\u0634 <color=red>\u0627\u0634\u062A\u0628\u0627\u0647\u0647</color>
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646"
+    howToPlayAudio: {fileID: 8300000, guid: d11ff287a4a87f042910e7a1fffa5f85, type: 3}
+  - location: 0
+    difficulty: 1
+    prefab: {fileID: 2803367636316068108, guid: e81e063229b36ac4c95f79b8b29b3a4a,
+      type: 3}
+    howToPlayText: "\u0634\u06A9\u0644 \u0628\u0627\u0644\u0627\u06CC \u0635\u0641\u062D\u0647
+      \u0627\u0646\u062F\u0627\u0632\u0647 \u06CC \u062F\u0631\u0633\u062A\u06CC
+      \u062F\u0627\u0631\u0647 \u0647\u0631 \u0686\u06CC\u0632\u06CC \u06A9\u0647
+      \u062F\u0631 \u0645\u0642\u0627\u06CC\u0633\u0647 \u0628\u0627 \u0627\u0648\u0646
+      \u0627\u0646\u062F\u0627\u0632\u0634 <color=red>\u0627\u0634\u062A\u0628\u0627\u0647\u0647</color>
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646"
+    howToPlayAudio: {fileID: 8300000, guid: d11ff287a4a87f042910e7a1fffa5f85, type: 3}
+  - location: 0
+    difficulty: 2
+    prefab: {fileID: 2803367636316068108, guid: 1d204d3538af0f349b153b65eb227f06,
+      type: 3}
+    howToPlayText: "\u0634\u06A9\u0644 \u0628\u0627\u0644\u0627\u06CC \u0635\u0641\u062D\u0647
+      \u0627\u0646\u062F\u0627\u0632\u0647 \u06CC \u062F\u0631\u0633\u062A\u06CC
+      \u062F\u0627\u0631\u0647 \u0647\u0631 \u0686\u06CC\u0632\u06CC \u06A9\u0647
+      \u062F\u0631 \u0645\u0642\u0627\u06CC\u0633\u0647 \u0628\u0627 \u0627\u0648\u0646
+      \u0627\u0646\u062F\u0627\u0632\u0634 <color=red>\u0627\u0634\u062A\u0628\u0627\u0647\u0647</color>
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646"
+    howToPlayAudio: {fileID: 8300000, guid: d11ff287a4a87f042910e7a1fffa5f85, type: 3}
+  - location: 1
+    difficulty: 0
+    prefab: {fileID: 4643598839916628312, guid: 920da2c0cbd0ab843acc122162cec95f,
+      type: 3}
+    howToPlayText: "\u0634\u06A9\u0644 \u0628\u0627\u0644\u0627\u06CC \u0635\u0641\u062D\u0647
+      \u0627\u0646\u062F\u0627\u0632\u0647 \u06CC \u062F\u0631\u0633\u062A\u06CC
+      \u062F\u0627\u0631\u0647 \u0647\u0631 \u0686\u06CC\u0632\u06CC \u06A9\u0647
+      \u062F\u0631 \u0645\u0642\u0627\u06CC\u0633\u0647 \u0628\u0627 \u0627\u0648\u0646
+      \u0627\u0646\u062F\u0627\u0632\u0634 <color=red>\u0627\u0634\u062A\u0628\u0627\u0647\u0647</color>
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646"
+    howToPlayAudio: {fileID: 8300000, guid: d11ff287a4a87f042910e7a1fffa5f85, type: 3}
+  - location: 1
+    difficulty: 1
+    prefab: {fileID: 4643598839916628312, guid: 1431104e18e8e994da561c03a76140ea,
+      type: 3}
+    howToPlayText: "\u0634\u06A9\u0644 \u0628\u0627\u0644\u0627\u06CC \u0635\u0641\u062D\u0647
+      \u0627\u0646\u062F\u0627\u0632\u0647 \u06CC \u062F\u0631\u0633\u062A\u06CC
+      \u062F\u0627\u0631\u0647 \u0647\u0631 \u0686\u06CC\u0632\u06CC \u06A9\u0647
+      \u062F\u0631 \u0645\u0642\u0627\u06CC\u0633\u0647 \u0628\u0627 \u0627\u0648\u0646
+      \u0627\u0646\u062F\u0627\u0632\u0634 <color=red>\u0627\u0634\u062A\u0628\u0627\u0647\u0647</color>
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646"
+    howToPlayAudio: {fileID: 8300000, guid: d11ff287a4a87f042910e7a1fffa5f85, type: 3}
+  - location: 1
+    difficulty: 2
+    prefab: {fileID: 4643598839916628312, guid: 96f7ab6af29a68c4290356491c4f56d3,
+      type: 3}
+    howToPlayText: "\u0634\u06A9\u0644 \u0628\u0627\u0644\u0627\u06CC \u0635\u0641\u062D\u0647
+      \u0627\u0646\u062F\u0627\u0632\u0647 \u06CC \u062F\u0631\u0633\u062A\u06CC
+      \u062F\u0627\u0631\u0647 \u0647\u0631 \u0686\u06CC\u0632\u06CC \u06A9\u0647
+      \u062F\u0631 \u0645\u0642\u0627\u06CC\u0633\u0647 \u0628\u0627 \u0627\u0648\u0646
+      \u0627\u0646\u062F\u0627\u0632\u0634 <color=red>\u0627\u0634\u062A\u0628\u0627\u0647\u0647</color>
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646"
+    howToPlayAudio: {fileID: 8300000, guid: d11ff287a4a87f042910e7a1fffa5f85, type: 3}
+  - location: 2
+    difficulty: 0
+    prefab: {fileID: 4643598839916628312, guid: 57aaac97cda00ab40a6ae9ef7f4a11f5,
+      type: 3}
+    howToPlayText: "\u0634\u06A9\u0644 \u0628\u0627\u0644\u0627\u06CC \u0635\u0641\u062D\u0647
+      \u0627\u0646\u062F\u0627\u0632\u0647 \u06CC \u062F\u0631\u0633\u062A\u06CC
+      \u062F\u0627\u0631\u0647 \u0647\u0631 \u0686\u06CC\u0632\u06CC \u06A9\u0647
+      \u062F\u0631 \u0645\u0642\u0627\u06CC\u0633\u0647 \u0628\u0627 \u0627\u0648\u0646
+      \u0627\u0646\u062F\u0627\u0632\u0634 <color=red>\u0627\u0634\u062A\u0628\u0627\u0647\u0647</color>
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646"
+    howToPlayAudio: {fileID: 8300000, guid: d11ff287a4a87f042910e7a1fffa5f85, type: 3}
+  - location: 2
+    difficulty: 1
+    prefab: {fileID: 4643598839916628312, guid: 215fb0733f7ae9c44afba744014df50e,
+      type: 3}
+    howToPlayText: "\u0634\u06A9\u0644 \u0628\u0627\u0644\u0627\u06CC \u0635\u0641\u062D\u0647
+      \u0627\u0646\u062F\u0627\u0632\u0647 \u06CC \u062F\u0631\u0633\u062A\u06CC
+      \u062F\u0627\u0631\u0647 \u0647\u0631 \u0686\u06CC\u0632\u06CC \u06A9\u0647
+      \u062F\u0631 \u0645\u0642\u0627\u06CC\u0633\u0647 \u0628\u0627 \u0627\u0648\u0646
+      \u0627\u0646\u062F\u0627\u0632\u0634 <color=red>\u0627\u0634\u062A\u0628\u0627\u0647\u0647</color>
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646"
+    howToPlayAudio: {fileID: 8300000, guid: d11ff287a4a87f042910e7a1fffa5f85, type: 3}
+  - location: 2
+    difficulty: 2
+    prefab: {fileID: 4643598839916628312, guid: 61d9ac2e0b5049846b72e679e96be04c,
+      type: 3}
+    howToPlayText: "\u0634\u06A9\u0644 \u0628\u0627\u0644\u0627\u06CC \u0635\u0641\u062D\u0647
+      \u0627\u0646\u062F\u0627\u0632\u0647 \u06CC \u062F\u0631\u0633\u062A\u06CC
+      \u062F\u0627\u0631\u0647 \u0647\u0631 \u0686\u06CC\u0632\u06CC \u06A9\u0647
+      \u062F\u0631 \u0645\u0642\u0627\u06CC\u0633\u0647 \u0628\u0627 \u0627\u0648\u0646
+      \u0627\u0646\u062F\u0627\u0632\u0634 <color=red>\u0627\u0634\u062A\u0628\u0627\u0647\u0647</color>
+      \u0631\u0648 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646"
+    howToPlayAudio: {fileID: 8300000, guid: d11ff287a4a87f042910e7a1fffa5f85, type: 3}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b9a30767de96204e900bcbc0cca77cc, type: 3}
+  m_Name: GS
+  m_EditorClassIdentifier: 
+  CBButtonsAnimateTime: 0.5
+  CBButtonsOffEase: 26
+  CBButtonsOnEase: 27
+  FadeOutEase: 15
+  FadeIntEase: 15
+  ChooseSimilarDelayAfterFinish: 1000
+  numbers:
+  - {fileID: 5433472685221856295, guid: 449e4e1be23db464d86dfd62bf40d262, type: 3}
+  - {fileID: 5433472685221856295, guid: d4f25850bc479c342be10cce4eed13e0, type: 3}
+  - {fileID: 5433472685221856295, guid: 7b00e027fda22fe45aed47178a169b44, type: 3}
+  - {fileID: 5433472685221856295, guid: ec9632a1e8f8a794db5994f4abcb4bb9, type: 3}
+  - {fileID: 5433472685221856295, guid: c1f0873e0f163f740be567d671bf7e6a, type: 3}
+  - {fileID: 5433472685221856295, guid: e089a6d9f3f0f7144b52bd2248dea7f1, type: 3}
+  - {fileID: 5433472685221856295, guid: 84e2d29d896246d4faf509629cb867ea, type: 3}
+  - {fileID: 5433472685221856295, guid: 2314777a8052bec499ace5f7eed6f148, type: 3}
+  - {fileID: 5433472685221856295, guid: 7a351d2e9e2bb8948959ab0fea9ca756, type: 3}
+  - {fileID: 5433472685221856295, guid: 41aaf529495a5a64bb4e437a4024776a, type: 3}

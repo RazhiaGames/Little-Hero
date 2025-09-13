@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8428995cf8774b65947b11e7a73d8501, type: 3}
+  m_Name: FindDifferenceGame
+  m_EditorClassIdentifier: Assembly-CSharp::FindDifferenceGame
+  gameName: "\u067E\u06CC\u062F\u0627 \u06A9\u0631\u062F\u0646 \u062A\u0641\u0627\u0648\u062A"
+  configurations:
+  - location: 0
+    difficulty: 0
+    prefab: {fileID: 6822193446812291040, guid: bd03469d4c3021b4ead466d9c11f252d,
+      type: 3}
+    levelRightSpriteColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    howToPlayText: "\u062A\u0641\u0627\u0648\u062A \u0647\u0627 \u0631\u0648 \u067E\u06CC\u062F\u0627
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 3d6f330f222b167478b4f7d04acdf78b, type: 3}
+  - location: 0
+    difficulty: 1
+    prefab: {fileID: 6822193446812291040, guid: 16b0fadc8c39cc84db43b03401e076ae,
+      type: 3}
+    levelRightSpriteColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    howToPlayText: "\u062A\u0641\u0627\u0648\u062A \u0647\u0627 \u0631\u0648 \u067E\u06CC\u062F\u0627
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 3d6f330f222b167478b4f7d04acdf78b, type: 3}
+  - location: 0
+    difficulty: 2
+    prefab: {fileID: 6822193446812291040, guid: f6b253f8b6abae746b276c975dc0cf80,
+      type: 3}
+    levelRightSpriteColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    howToPlayText: "\u062A\u0641\u0627\u0648\u062A \u0647\u0627 \u0631\u0648 \u067E\u06CC\u062F\u0627
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 3d6f330f222b167478b4f7d04acdf78b, type: 3}
+  - location: 1
+    difficulty: 0
+    prefab: {fileID: 6822193446812291040, guid: 80b6ce7390e576d4cab351ac62da7f33,
+      type: 3}
+    levelRightSpriteColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    howToPlayText: "\u062A\u0641\u0627\u0648\u062A \u0647\u0627 \u0631\u0648 \u067E\u06CC\u062F\u0627
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 3d6f330f222b167478b4f7d04acdf78b, type: 3}
+  - location: 1
+    difficulty: 1
+    prefab: {fileID: 6822193446812291040, guid: 08a8e274b3a8fae43b47c5c13699753b,
+      type: 3}
+    levelRightSpriteColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    howToPlayText: "\u062A\u0641\u0627\u0648\u062A \u0647\u0627 \u0631\u0648 \u067E\u06CC\u062F\u0627
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 3d6f330f222b167478b4f7d04acdf78b, type: 3}
+  - location: 1
+    difficulty: 2
+    prefab: {fileID: 6822193446812291040, guid: 7967340f59bcb8044bbc41eada8e943c,
+      type: 3}
+    levelRightSpriteColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    howToPlayText: "\u062A\u0641\u0627\u0648\u062A \u0647\u0627 \u0631\u0648 \u067E\u06CC\u062F\u0627
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 3d6f330f222b167478b4f7d04acdf78b, type: 3}
+  - location: 2
+    difficulty: 0
+    prefab: {fileID: 6822193446812291040, guid: ad00acb0f4b4e2a498d2e0f36c8f523c,
+      type: 3}
+    levelRightSpriteColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    howToPlayText: "\u062A\u0641\u0627\u0648\u062A \u0647\u0627 \u0631\u0648 \u067E\u06CC\u062F\u0627
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 3d6f330f222b167478b4f7d04acdf78b, type: 3}
+  - location: 2
+    difficulty: 1
+    prefab: {fileID: 6822193446812291040, guid: 0725f5a909edc58458e48a460fc8e5a6,
+      type: 3}
+    levelRightSpriteColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    howToPlayText: "\u062A\u0641\u0627\u0648\u062A \u0647\u0627 \u0631\u0648 \u067E\u06CC\u062F\u0627
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 3d6f330f222b167478b4f7d04acdf78b, type: 3}
+  - location: 2
+    difficulty: 2
+    prefab: {fileID: 6822193446812291040, guid: 74b1587071961274fb459bb2d8aa296c,
+      type: 3}
+    levelRightSpriteColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    howToPlayText: "\u062A\u0641\u0627\u0648\u062A \u0647\u0627 \u0631\u0648 \u067E\u06CC\u062F\u0627
+      \u06A9\u0646!"
+    howToPlayAudio: {fileID: 8300000, guid: 3d6f330f222b167478b4f7d04acdf78b, type: 3}

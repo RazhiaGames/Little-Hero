@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32033392f8c250946a0b8b149b7724a9, type: 3}
+  m_Name: ArrangingConfig
+  m_EditorClassIdentifier: 
+  gameName: "\u0645\u0631\u062A\u0628 \u0633\u0627\u0632\u06CC"
+  configurations:
+  - location: 0
+    difficulty: 0
+    prefab: {fileID: 9087011651793502651, guid: ff08ab680d5fbf341bd750c6ded72390,
+      type: 3}
+    howToPlayText: "\u0648\u0633\u0627\u06CC\u0644 \u0631\u0648 \u062A\u0648\u06CC
+      \u062C\u0639\u0628\u0647 \u0627\u06CC \u06A9\u0647 \u0645\u0631\u0628\u0648\u0637
+      \u0628\u0647\u0634 \u0647\u0633\u062A \u0628\u0632\u0627\u0631"
+    howToPlayAudio: {fileID: 8300000, guid: 801bd133bb961694788d3ebd19ad46d0, type: 3}
+    containerTypeFirst: 0
+    containerTypeSecond: 1
+    containerTypeThird: 2
+    containerTypeFourth: 0
+    containerTypeFifth: 0
+    firstContainerText: "\u0648\u0631\u0632\u0634"
+    secondContainerText: "\u0631\u06CC\u0627\u0636\u06CC"
+    thirdContainerText: "\u0647\u0646\u0631"
+    fourthContainerText: 
+    fifthContainerText: 
+  - location: 0
+    difficulty: 1
+    prefab: {fileID: 9087011651793502651, guid: 9b6f203b75aafbc4493585357978cdaf,
+      type: 3}
+    howToPlayText: "\u0648\u0633\u0627\u06CC\u0644 \u0631\u0648 \u062A\u0648\u06CC
+      \u062C\u0639\u0628\u0647 \u0627\u06CC \u06A9\u0647 \u0645\u0631\u0628\u0648\u0637
+      \u0628\u0647\u0634 \u0647\u0633\u062A \u0628\u0632\u0627\u0631"
+    howToPlayAudio: {fileID: 8300000, guid: 801bd133bb961694788d3ebd19ad46d0, type: 3}
+    containerTypeFirst: 0
+    containerTypeSecond: 1
+    containerTypeThird: 2
+    containerTypeFourth: 0
+    containerTypeFifth: 0
+    firstContainerText: "\u0648\u0631\u0632\u0634"
+    secondContainerText: "\u0631\u06CC\u0627\u0636\u06CC"
+    thirdContainerText: "\u0647\u0646\u0631"
+    fourthContainerText: 
+    fifthContainerText: 
+  - location: 0
+    difficulty: 2
+    prefab: {fileID: 9087011651793502651, guid: 9ca6c4e7f5adf494b9d1b46b8f806036,
+      type: 3}
+    howToPlayText: "\u0648\u0633\u0627\u06CC\u0644 \u0631\u0648 \u062A\u0648\u06CC
+      \u062C\u0639\u0628\u0647 \u0627\u06CC \u06A9\u0647 \u0645\u0631\u0628\u0648\u0637
+      \u0628\u0647\u0634 \u0647\u0633\u062A \u0628\u0632\u0627\u0631"
+    howToPlayAudio: {fileID: 8300000, guid: 801bd133bb961694788d3ebd19ad46d0, type: 3}
+    containerTypeFirst: 0
+    containerTypeSecond: 1
+    containerTypeThird: 2
+    containerTypeFourth: 4
+    containerTypeFifth: 3
+    firstContainerText: "\u0648\u0631\u0632\u0634"
+    secondContainerText: "\u0631\u06CC\u0627\u0636\u06CC"
+    thirdContainerText: "\u0647\u0646\u0631"
+    fourthContainerText: "\u06A9\u0627\u0631\u06AF\u0627\u0647"
+    fifthContainerText: "\u062C\u063A\u0631\u0627\u0641\u06CC\u0627"
+  - location: 1
+    difficulty: 0
+    prefab: {fileID: 2147587697390634472, guid: 6d1bb5547f86ab041ad0de727b675ec6,
+      type: 3}
+    howToPlayText: "\u0648\u0633\u0627\u06CC\u0644 \u0631\u0648 \u062A\u0648\u06CC
+      \u062C\u0639\u0628\u0647 \u0627\u06CC \u06A9\u0647 \u0645\u0631\u0628\u0648\u0637
+      \u0628\u0647\u0634 \u0647\u0633\u062A \u0628\u0632\u0627\u0631"
+    howToPlayAudio: {fileID: 8300000, guid: 801bd133bb961694788d3ebd19ad46d0, type: 3}
+    containerTypeFirst: 5
+    containerTypeSecond: 7
+    containerTypeThird: 9
+    containerTypeFourth: 0
+    containerTypeFifth: 0
+    firstContainerText: "\u063A\u0630\u0627"
+    secondContainerText: "\u062D\u06CC\u0648\u0627\u0646"
+    thirdContainerText: "\u0644\u0628\u0627\u0633"
+    fourthContainerText: 
+    fifthContainerText: 
+  - location: 1
+    difficulty: 1
+    prefab: {fileID: 1643084613577767967, guid: b13aa16052d59bf4fa22ad19aa95243c,
+      type: 3}
+    howToPlayText: "\u0648\u0633\u0627\u06CC\u0644 \u0631\u0648 \u062A\u0648\u06CC
+      \u062C\u0639\u0628\u0647 \u0627\u06CC \u06A9\u0647 \u0645\u0631\u0628\u0648\u0637
+      \u0628\u0647\u0634 \u0647\u0633\u062A \u0628\u0632\u0627\u0631"
+    howToPlayAudio: {fileID: 8300000, guid: 801bd133bb961694788d3ebd19ad46d0, type: 3}
+    containerTypeFirst: 7
+    containerTypeSecond: 9
+    containerTypeThird: 5
+    containerTypeFourth: 0
+    containerTypeFifth: 0
+    firstContainerText: "\u062D\u06CC\u0648\u0627\u0646"
+    secondContainerText: "\u0644\u0628\u0627\u0633"
+    thirdContainerText: "\u063A\u0630\u0627"
+    fourthContainerText: 
+    fifthContainerText: 
+  - location: 1
+    difficulty: 2
+    prefab: {fileID: 3798835089199503433, guid: 49808b4ef04dbe84eab87cefa4e5bc72,
+      type: 3}
+    howToPlayText: "\u0648\u0633\u0627\u06CC\u0644 \u0631\u0648 \u062A\u0648\u06CC
+      \u062C\u0639\u0628\u0647 \u0627\u06CC \u06A9\u0647 \u0645\u0631\u0628\u0648\u0637
+      \u0628\u0647\u0634 \u0647\u0633\u062A \u0628\u0632\u0627\u0631"
+    howToPlayAudio: {fileID: 8300000, guid: 801bd133bb961694788d3ebd19ad46d0, type: 3}
+    containerTypeFirst: 7
+    containerTypeSecond: 10
+    containerTypeThird: 5
+    containerTypeFourth: 11
+    containerTypeFifth: 9
+    firstContainerText: "\u062D\u06CC\u0648\u0627\u0646"
+    secondContainerText: "\u0627\u0646\u0633\u0627\u0646"
+    thirdContainerText: "\u063A\u0630\u0627"
+    fourthContainerText: "\u062F\u06CC\u0648\u0627\u0631"
+    fifthContainerText: "\u0644\u0628\u0627\u0633"
+  - location: 2
+    difficulty: 0
+    prefab: {fileID: 3469396775534490529, guid: a5e3846d3bc45b642b4fdc355ce561af,
+      type: 3}
+    howToPlayText: "\u0648\u0633\u0627\u06CC\u0644 \u0631\u0648 \u062A\u0648\u06CC
+      \u062C\u0639\u0628\u0647 \u0627\u06CC \u06A9\u0647 \u0645\u0631\u0628\u0648\u0637
+      \u0628\u0647\u0634 \u0647\u0633\u062A \u0628\u0632\u0627\u0631"
+    howToPlayAudio: {fileID: 8300000, guid: 801bd133bb961694788d3ebd19ad46d0, type: 3}
+    containerTypeFirst: 5
+    containerTypeSecond: 6
+    containerTypeThird: 7
+    containerTypeFourth: 0
+    containerTypeFifth: 0
+    firstContainerText: "\u063A\u0630\u0627"
+    secondContainerText: "\u0627\u0628\u0632\u0627\u0631"
+    thirdContainerText: "\u062D\u06CC\u0648\u0627\u0646"
+    fourthContainerText: 
+    fifthContainerText: 
+  - location: 2
+    difficulty: 1
+    prefab: {fileID: 2106694637970334542, guid: 1fb3b10b0a5f3df4c836c92b4fd8d06d,
+      type: 3}
+    howToPlayText: "\u0648\u0633\u0627\u06CC\u0644 \u0631\u0648 \u062A\u0648\u06CC
+      \u062C\u0639\u0628\u0647 \u0627\u06CC \u06A9\u0647 \u0645\u0631\u0628\u0648\u0637
+      \u0628\u0647\u0634 \u0647\u0633\u062A \u0628\u0632\u0627\u0631"
+    howToPlayAudio: {fileID: 8300000, guid: 801bd133bb961694788d3ebd19ad46d0, type: 3}
+    containerTypeFirst: 5
+    containerTypeSecond: 6
+    containerTypeThird: 7
+    containerTypeFourth: 0
+    containerTypeFifth: 0
+    firstContainerText: "\u063A\u0630\u0627"
+    secondContainerText: "\u0627\u0628\u0632\u0627\u0631"
+    thirdContainerText: "\u062D\u06CC\u0648\u0627\u0646"
+    fourthContainerText: 
+    fifthContainerText: 
+  - location: 2
+    difficulty: 2
+    prefab: {fileID: 2628958888445954697, guid: fcb97f8a20b748e4e9cf2fef32d86284,
+      type: 3}
+    howToPlayText: "\u0648\u0633\u0627\u06CC\u0644 \u0631\u0648 \u062A\u0648\u06CC
+      \u062C\u0639\u0628\u0647 \u0627\u06CC \u06A9\u0647 \u0645\u0631\u0628\u0648\u0637
+      \u0628\u0647\u0634 \u0647\u0633\u062A \u0628\u0632\u0627\u0631"
+    howToPlayAudio: {fileID: 8300000, guid: 801bd133bb961694788d3ebd19ad46d0, type: 3}
+    containerTypeFirst: 7
+    containerTypeSecond: 10
+    containerTypeThird: 6
+    containerTypeFourth: 11
+    containerTypeFifth: 5
+    firstContainerText: "\u062D\u06CC\u0648\u0627\u0646"
+    secondContainerText: "\u0627\u0646\u0633\u0627\u0646"
+    thirdContainerText: "\u0627\u0628\u0632\u0627\u0631"
+    fourthContainerText: "\u062F\u06CC\u0648\u0627\u0631"
+    fifthContainerText: "\u063A\u0630\u0627"
