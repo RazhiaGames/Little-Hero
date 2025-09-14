@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1a16ee1761bb9847b6bd6cbb45682f7, type: 3}
+  m_Name: CrossSceneData
+  m_EditorClassIdentifier: 
+  userImagesList:
+  - {fileID: 21300000, guid: feddd9f7c87a402409d85de7336466ea, type: 3}
+  - {fileID: 21300000, guid: ed657fee85241ad4fa488b273370a893, type: 3}
+  - {fileID: 21300000, guid: f5da5ad3fb159c647a26cfd507a8b198, type: 3}
+  - {fileID: 21300000, guid: 581247a9cd687984c89cac3817ec12ed, type: 3}
